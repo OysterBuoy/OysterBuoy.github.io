@@ -6,3 +6,9 @@ title: Dungeons and Dragons and Shenanigans
 	<h1>Hi there, I'm Ed!</h1>
 	<p>I'm a serial DM and nerd. I play a lot of Dungeons and Dragons, and when I'm not playing it, I'm thinking about it. <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
+<ul class="posts">
+
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
