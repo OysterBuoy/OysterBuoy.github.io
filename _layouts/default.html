@@ -7,22 +7,29 @@
 		</head>
 		<body>
 			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/about">About</a></li>
+						<li class="dropdown">
+							<a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Blog</a>
+							<div class="dropdown-content" id="myDropdown">
+								<a href="#">Trial by Incarceration</a>
+								<a href="#">One Shots</a>
+								<a href="#">IdeaPad</a>
+							</div>
+						</li>
+					</ul>
 			</nav>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+	        		<li><a href="mailto:edward.jo.prosser@hotmail.co.uk">email</a></li>
+	        		<li><a href="https://github.com/oysterbuoy">github.com/oysterbuoy</a></li>
+							<li><a href="http://twitter.com/Oyster_Buoy">twitter.com.oyster_buoy</a></li>
 				</ul>
 			</footer>
 		</body>
