@@ -9,7 +9,7 @@ title: Dungeons and Dragons and Shenanigans
 <ul class="posts">
 
 	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br/><a href="/tags#{{ tag }}" class="tag">{{ post.tags }}</a></li>
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br/><a href="/tags#{{ tag }}" class="tag">{{ page.tags }}</a></li>
 	{% endfor %}
 </ul>
 <ul class="tags">
