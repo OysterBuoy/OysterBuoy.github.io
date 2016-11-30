@@ -1,9 +1,18 @@
+---
+layout: default
+title: Tags
+description: Stochastic stuff blog's tags. List of articles and posts by tags.
+---
+
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign tag_words = site_tags | split:',' | sort %}
+
+<!-- Build the Page -->
+
 <!-- List of all tags -->
 <ul class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
@@ -15,6 +24,7 @@ to the `site_tags` variable. -->
     </li>
   {% endunless %}{% endfor %}
 </ul>
+
 <!-- Posts by Tag -->
 <div>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
