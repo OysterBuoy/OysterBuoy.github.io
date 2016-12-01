@@ -1,4 +1,9 @@
-# Post-Prison Break Session
+---
+layout: post
+title: Crystal Mine Session
+tags: [planning, Dungeons and Dragons, 5E]
+categories: [Trial by Incarceration]
+---
 
 ## DM priorities:
 
@@ -157,31 +162,10 @@ _The morning after_...
 _Ammanar will appear much more wizardly, and thank the party for opening his eyes, and helping him become himself again. He takes his leave, saying that he'll hopefully see them again in future, and that clearly there is much more to learn and to fight against. He reveals himself as essentially a badass war wizard and leaves._
 
 
-
-
-
-
-
 Total roll for proficiency for escaping: 23.
 
 The empire will begin following traces, will find the camp in a few days, but may lose the trail. Roll for Ammanar's skill to evade them.
 
-
-
-
-
-
-
-Initiative:
-
-
-Geth: 18
-Dogs: 16
-Zook: 12
-Lyra: 10
-Guards: 7
-
-
-100xp
+100xp - so far.
 
 3 rds till both a patrol and the commander and 2 guards come looking.

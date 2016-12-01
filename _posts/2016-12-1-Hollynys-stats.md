@@ -1,6 +1,9 @@
-Hollynys Stats
------
-
+---
+layout: post
+title: Hollynys Stat Block
+tags: [planning, Dungeons and Dragons, 5E, NPC, Monster]
+categories: [Trial by Incarceration]
+---
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:----:|:----:|:----:|:----:|:----:|:----:|

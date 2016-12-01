@@ -1,10 +1,14 @@
-# Hollynys Rescue Notes:
+---
+layout: post
+title: Jailbreak Session planning
+tags: [Trial by Incarceration, Dungeons and Dragons, 5E]
+categories: [Trial by Incarceration]
+---
 
 ## Session begins:
 
 - Guard uniforms are delivered, but they don't have the pin. Perception check DC 17 to notice.
 - Ammanar will ask whether he should prepare to receive Hollynys at the house, or not, he wants to speak to her, what should he do?
--
 
 ## Admin Building and Entrance
 
@@ -55,4 +59,3 @@ The empire will lock down the quarter within 30 minutes, and the city within 2 h
 - Party Gained 10 PP and 150 GP
 - Party gained a headband of wisdom +2 and a Bronze Griffon statue.
 - Looted case files on Gerold the Halfling, Hollynys' case file, and some other assorted criminal files.
--
