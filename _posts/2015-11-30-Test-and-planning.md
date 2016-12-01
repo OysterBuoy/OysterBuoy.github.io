@@ -3,6 +3,7 @@ layout: post
 title: "OysterBuoy.github.io is live! (Kinda)"
 date: 2016-11-30
 tags: [web dev, blogging, planning]
+category: blogging
 ---
 
 Hello _Reader!_ Or more likely, hello _future me!_ Here's a note for this first post reminding you of the things you want to implement.
