@@ -3,7 +3,7 @@ layout: post
 title: The Gnome City of Quaston
 date: 2016-11-30
 tags: [Trial by Incarceration, Dungeons and Dragons, 5E, Planning]
-categories: [Trial by Incarceration]
+categories: [TbI, fifth-edition]
 ---
 ## History
 

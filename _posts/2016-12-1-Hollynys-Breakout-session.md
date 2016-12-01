@@ -2,7 +2,7 @@
 layout: post
 title: Jailbreak Session planning
 tags: [Trial by Incarceration, Dungeons and Dragons, 5E]
-categories: [Trial by Incarceration]
+categories: [TbI, fifth-edition]
 ---
 
 ## Session begins:

@@ -28,7 +28,7 @@ The content is likely to come in dribs and drabs, but I'll commit to updating th
 
 #### Commitment One - Add Trial by Incarceration
 
-- Added some content from markdown, have begun posting and writing the [Quaston information doc](/2016/11/30/Quaston-city-planning-WiP.html).
+- Added some content from markdown, have begun posting and writing the [Quaston information doc](tbi/2016/11/30/Quaston-city-planning-WiP.html).
 
 ##### To do
 

@@ -2,7 +2,7 @@
 layout: post
 title: Crystal Mine Session
 tags: [planning, Dungeons and Dragons, 5E]
-categories: [Trial by Incarceration]
+categories: [TbI, fifth-edition]
 ---
 
 ## DM priorities:
