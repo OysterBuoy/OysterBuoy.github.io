@@ -10,6 +10,8 @@ categories: [Trial by Incarceration]
 |9|10|12|19|13|16|
 |-1|0|+1|+4|+1|+3|
 
+
+<div style="align:left; width:50%;">
 **Spells Known**
 
 |Level|Spell|
@@ -29,7 +31,9 @@ categories: [Trial by Incarceration]
 |5|Geas|
 |5|Immolation|
 |5|Teleportation Circle|
+</div>
 
+<div style="align:right; width:50%;">
 **Spell Slots Available**
 
 |Level|Number|
@@ -39,3 +43,4 @@ categories: [Trial by Incarceration]
 |3|3|
 |4|3|
 |5|2|
+</div>
