@@ -2,7 +2,7 @@
 layout: post
 title: Hollynys Stat Block
 tags: [planning, Dungeons and Dragons, 5E, NPC, Monster]
-categories: [TbI, fifth-edition]
+categories: [Trial by Incarceration, Fifth Edition]
 ---
 
 |STR|DEX|CON|INT|WIS|CHA|
