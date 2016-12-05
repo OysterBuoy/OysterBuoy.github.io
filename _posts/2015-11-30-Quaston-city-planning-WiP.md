@@ -81,6 +81,19 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 
 ##	Economy
 
+## Religions
+
+Gods:
+- There is some form of ancestor worship among the oldest clans.
+- Sehanine - Godess of Illusion, Love and the Moon.
+  - Temple in the Glittering Column and Marble Row.
+  - Shrine in Pebbleside.
+- Moradin - God of Family, Community and Creation.
+  - Temples in Marble Row Dwarven communities.
+- Corellon - God of Beauty, Magic, Art, and the Fey. 
+  - Temples in Pebbleside elf communities and Marble Row.
+- Vecna - God of the Undead and Necromancy
+  - worshipped in secret by certain members of the Enclave of Stone.
 
 ## Culture
 ###	Festivals and celebrations
