@@ -75,13 +75,7 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 - The Thieves.
 - The Temples.
 
-###	Current
 ###	Religion
-
-
-##	Economy
-
-## Religions
 
 Gods:
 - There is some form of ancestor worship among the oldest clans.
@@ -94,6 +88,9 @@ Gods:
   - Temples in Pebbleside elf communities and Marble Row.
 - Vecna - God of the Undead and Necromancy
   - worshipped in secret by certain members of the Enclave of Stone.
+
+
+##	Economy
 
 ## Culture
 ###	Festivals and celebrations
