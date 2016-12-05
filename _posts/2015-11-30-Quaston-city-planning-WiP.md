@@ -66,6 +66,10 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 
 - The ruling body of clan representatives.
 - The clans in their capacity as entities.
+  - Clan Beren
+  - Clan Turen
+  - Clan Folkor
+  - Clan Garrick
 - The new powerful clans not permitted in the ruling body.
 - The wizards of the Enclave of Stone
 - The Guilds
@@ -101,6 +105,7 @@ Gods:
 
 ## Governance
 
+The Gnomish founding clans are the most individually powerful groups in the city, and each year, one representative from each clan is chosen to represent the interests of that clan.
 
 ## Notable residents
 
