@@ -34,13 +34,17 @@ Sitting as the city does in a large, natural light is non-existent. In the wealt
 
 The huge pillar in the center of the cavern is known as the Glittering Column. Over the thousands of years since the founding of the city, an entire district has been carved out inside the column. Now, all the noble clans of Quaston make their homes inside the glittering column, so named because inside the black marbled exterior are large crystal hollows.
 
-#### Marbled Row
+In the caverns beneath the Glittering Column lies the Enclave of Stone, the guild of wizards who are the balance to the power of the gnomish clans. The Enclave are fiercely posessive of their knowledge, seeking to keep their secrets from all others. They have an extensive library and archive which can be browsed for a fee, but many of the most treasured scrolls and books are kept separate from this collection.
 
-The marbled row is the middle class circle.
+#### Marble Row
+
+The marbled row is the middle class circle. There are tradesmen and merchants of every conceivable craft, with many especially fine stoneworkers. The Guild of Cartographers owns a large building in Marble Row. They are dedicated to mapping both the world at large, and the voluminous caverns beneath Mt Orryn. Cartography is a dangerous profession, and many expiditions into the deeper caverns don't make it back. The guild is a good place for adventurers to find work guarding map-makers as they explore the recesses of Mt Orryn.
+
+Many Mountain Dwarves live and work in Marble Row as blacksmiths, jewelers, and merchants.
 
 #### Pebbleside
 
-
+Pebbleside is the most populous of the cities districts. 
 
 #### The Gravel Heap
 
@@ -58,8 +62,20 @@ The climate of Quaston
 
 The population of Quaston are almost entirely gnomes, although there are sizable Wood Elf and Dwarf populations, most are looked down on by the ruling clans,
 
+### Factions in Quaston
+
+- The ruling body of clan representatives.
+- The clans in their capacity as entities.
+- The new powerful clans not permitted in the ruling body.
+- The wizards of the Enclave of Stone
+- The Guilds
+  - The Cartographers
+  - The Artisans
+  - A bunch of minor guilds
+- The Thieves.
+- The Temples.
+
 ###	Current
-###	Historical
 ###	Religion
 
 
