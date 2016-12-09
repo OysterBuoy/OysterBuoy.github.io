@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D&D Stories: The Crystal Mine
+title: D&D Stories - The Crystal Mine
 date: 2016-12-01
 tags: [Trial by Incarceration, Dungeons and Dragons, 5E, Prose]
 categories: [TbI, prose]
