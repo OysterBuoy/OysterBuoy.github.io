@@ -56,7 +56,11 @@ ul.posts li {
     text-align: left;
 }
 
-div.excerpt, p {
+div.excerpt p {
+    font-size: 0.75em;
+}
+
+div.excerpt {
     font-size: 0.75em;
 }
 
