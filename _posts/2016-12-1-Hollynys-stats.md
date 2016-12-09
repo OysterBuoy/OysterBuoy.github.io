@@ -3,6 +3,7 @@ layout: post
 title: Hollynys Stat Block
 tags: [planning, Dungeons and Dragons, 5E, NPC, Monster]
 categories: [Trial by Incarceration, Fifth Edition]
+excerpt: Hollynys Fletcher is a wizard of quite some repute. Born into a wealthy Kirkrindell family and naturally gifted in the arcane, Hollynys was a grown woman before she found a challenge she could not easily master.
 ---
 <img position="absolute" align="right" src="https://oysterbuoy.github.io/assets/Hollynys-Fletcher.JPG" alt="Hollynys stat block"> Hollynys Fletcher is a wizard of quite some repute. Born into a wealthy Kirkrindell family and naturally gifted in the arcane, Hollynys was a grown woman before she found a challenge she could not easily master. 
 
