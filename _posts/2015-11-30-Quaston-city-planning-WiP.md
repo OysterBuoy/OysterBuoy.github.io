@@ -35,7 +35,7 @@ Many Mountain Dwarves live and work in Marble Row as blacksmiths, jewelers, and 
 
 #### Pebbleside
 
-Pebbleside is the most populous of the cities districts. 
+Pebbleside is the most populous of the cities districts, and the district where most of the Wood Elves reside. Unlike the dwarvish residents of the city, most wood elves are unfamiliar with living below ground, and only remain because they are unable to live with their kin in the Great Forest. Whether that's for reasons of banishment or exile, poverty, shame, 
 
 #### The Gravel Heap
 
@@ -58,10 +58,21 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 - The ruling body of clan representatives.
 - The clans in their capacity as entities.
   - Clan Beren
+    - Young leader, naive - 
+    - Very influential family.
+    - Favoured by the council.
+    - Wants reform to include the new clans.
   - Clan Turen
+    - Middle aged leader, savvy - 
+    - Declining influence.
+    - Recently driven out a family member for being a monster (jekyll and hyde)
+    - Wants to leave the city for somewhere else.
   - Clan Folkor
+    - 
   - Clan Garrick
 - The new powerful clans not permitted in the ruling body.
+  - Clan Glossen
+  - Clan Redin
 - The wizards of the Enclave of Stone
 - The Guilds
   - The Cartographers
@@ -88,21 +99,28 @@ Gods:
 - Vecna - God of the Undead and Necromancy
   - worshipped in secret by certain members of the Enclave of Stone.
 
-
 ##	Economy
 
-## Culture
-###	Festivals and celebrations
-### Music, theatre and film
-### Museums, libraries and galleries
-### Shopping
+Imports:
 
+- Grain
+- Meats
+- Wood
+- 
+
+Exports:
+
+- Art
+- Gems
+- Magically invested goods
+- 
 
 ## Governance
 
 The Gnomish founding clans are the most individually powerful groups in the city, and each year, one representative from each clan is chosen to represent the interests of that clan.
 
 ## Notable residents
+
 
 
 ## International relations
