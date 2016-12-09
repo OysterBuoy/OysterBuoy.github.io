@@ -4,7 +4,7 @@ title: The Gnome City of Quaston
 date: 2016-11-30
 tags: [Trial by Incarceration, Dungeons and Dragons, 5E, Planning]
 categories: [TbI, fifth-edition]
-excerpt: My guide to the Gnomish city of Quaston, the one of the largest cities in the world of my homebrew campaign, and the hometown of wandering lunatic Zook the Spectacular. Famous for it's wizards, it's sculpture, and whatever that fungus beer they serve in Wandering Al's...
+excerpt: [My guide to the Gnomish city of Quaston, the one of the largest cities in the world of my homebrew campaign, and the hometown of wandering lunatic Zook the Spectacular. Famous for it's wizards, it's sculpture, and whatever that fungus beer they serve in Wandering Al's...]
 ---
 ## History
 
