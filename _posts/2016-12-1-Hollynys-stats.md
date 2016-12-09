@@ -14,5 +14,5 @@ With many of her closest friends dead, and their attempt to protect the city she
 
 _DM's note: Hollynys is one of my favourite NPCs in this campaign. My lovely group of players took on a daring prison break in order to get her out of Imperial custody and find out what the hell it was that she summoned. The prison heist almost went terribly wrong, leading one of my players to attempt to free her so that she could help **them** escape (a la Princess Leia). It was then that I sprung on them the revelation that the empire had cut off her hands to prevent her from doing any magic. Mwahahaha >:)_
 <div align="center">
-![Hollynys stat block](https://oysterbuoy.github.io/assets/Hollynys-Fletcher.JPG)
+<img src="https://oysterbuoy.github.io/assets/hollynys-fletcher.jpg" alt="Hollynys stat block">
 </div>
