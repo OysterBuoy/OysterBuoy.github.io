@@ -24,7 +24,7 @@ A long cold night of being sitting on a tree stump and being rained on. And not 
 
 This witch had better be worth it.
 
----
+***
 
 A scream cut through Geth's sleep. Gasping as he clawed for wakefullness and his weapons, Geth scrambled out of the tent and into the weak sunlight of morning. 
 
@@ -34,7 +34,7 @@ Zook and Ammanar crouched next to the fire, over a now-unconscious Hollynys, eac
 
 Tossing the pan aside, Zook cocked his head and peered at the seared flesh. "Seems so."
 
----
+***
 
 Hollynys stood, pale still, but determined, reading the letter aloud:
 
