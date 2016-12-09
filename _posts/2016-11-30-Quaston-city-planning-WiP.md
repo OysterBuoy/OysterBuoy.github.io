@@ -145,8 +145,29 @@ older man, assertive, very influential, new source of gems, wants to fortify pos
 **Kellen Garrick** - 
 
 
+### Temple Leaders
+
+- Sehanine - Godess of Illusion, Love and the Moon.
+  - Temple in the Glittering Column and Marble Row.
+    - 
+  - Shrine in Pebbleside.
+    -
+- Moradin - God of Family, Community and Creation.
+  - Temples in Marble Row Dwarven communities.
+    - 
+- Corellon - God of Beauty, Magic, Art, and the Fey. 
+  - Temples in Pebbleside elf communities and Marble Row.
+    - 
+    - 
+
 ### Guild Leaders
 
+- Cartographers Guild
+  - 
+- Artisans Guild
+  - 
+
+### The Thieves
 
 - Oneshoe's Clan - bribery and extortionists
   - 
@@ -157,8 +178,9 @@ older man, assertive, very influential, new source of gems, wants to fortify pos
 - Filche's Clan - thievery 
   - 
 
-### The Thieves
-
 ### The Enclave of Stone
+
+- Bossman Wizard
+- 
 
 ## International relations
