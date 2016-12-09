@@ -3,6 +3,7 @@ layout: post
 title: Jailbreak Session planning
 tags: [Trial by Incarceration, Dungeons and Dragons, 5E]
 categories: [TbI, fifth-edition]
+excerpt: This week the party plan to break a wizard out of prison!
 ---
 
 ## Session begins:
