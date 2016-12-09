@@ -4,38 +4,15 @@ title: Hollynys Stat Block
 tags: [planning, Dungeons and Dragons, 5E, NPC, Monster]
 categories: [Trial by Incarceration, Fifth Edition]
 ---
+Hollynys Fletcher is a wizard of quite some repute. Born into a wealthy Kirkrindell family and naturally gifted in the arcane, Hollynys was a grown woman before she found a challenge she could not easily master. 
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|9|10|12|19|13|16|
-|-1|0|+1|+4|+1|+3|
+Arrogant and aggressive in her pursuit of magical study, Hollynys became a central figure in the Blackwyrm Cabal, the secretive group of wizards in the heart of Kirkrindell. In the face of Imperial invasion, Hollynys was one of those arguing most strongly for the cabal to make a stand against Laseen's Empire. 
 
-**Spells Known**
+When many of the other wizards refused, Hollynys gathered her most trusted friends and performed a summoning, intendeding to call the Elemental Lord of Earth to their aid, what answered the call was something _other_. When Hollynys came to after the ritual, the others with her had been killed, and she was the only one left alive.
 
-|Level|Spell|
-|:---:|:---:|
-|0| Light |
-|1|Feather Fall|
-|2|Blindness/Deafness|
-|2|Blur|
-|2|Darkness|
-|2|Earthbind|
-|2|Knock|
-|2|Misty Step|
-|2|Suggestion|
-|3|Tongues|
-|4|Dimension Door|
-|5|Contact Other Plane|
-|5|Geas|
-|5|Immolation|
-|5|Teleportation Circle|
+With many of her closest friends dead, and their attempt to protect the city she loved having failed, Hollynys was a broken woman. Following the imperial invasion, she was arrested and tortured for the names of the rest of the cabal.
 
-**Spell Slots Available**
-
-|Level|Number|
-|:---:|:---:|
-|1|4|
-|2|3|
-|3|3|
-|4|3|
-|5|2|
+_DM's note: Hollynys is one of my favourite NPCs in this campaign. My lovely group of players took on a daring prison break in order to get her out of Imperial custody and find out what the hell it was that she summoned. The prison heist almost went terribly wrong, leading one of my players to attempt to free her so that she could help **them** escape (a la Princess Leia). It was then that I sprung on them the revelation that the empire had cut off her hands to prevent her from doing any magic. Mwahahaha >:)_
+<div align="center">
+![Hollynys stat block](../assets/hollynys-fletcher.jpg)
+</div>
