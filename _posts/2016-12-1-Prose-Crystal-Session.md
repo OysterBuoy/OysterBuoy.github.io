@@ -32,4 +32,14 @@ Zook and Ammanar crouched next to the fire, over a now-unconscious Hollynys, eac
 
 "You could have woken me." Geth grumbled, "The way she screamed I thought another of those Imperial assassins had descended upon us." He turned to walk away, eyeing the bloody bandages, now discarded, "Her wounds are sealed though?"
 
-Tossing the pan aside, Zook knelt to examine the seared flesh. "Seems so, though not exactly as I'd have liked."
+Tossing the pan aside, Zook cocked his head and peered at the seared flesh. "Seems so."
+
+---
+
+Hollynys stood, pale still, but determined, reading the letter aloud:
+
+_"Hollynys, I’m sorry we haven’t spoken in quite so long, and I still wouldn’t call you my friend, but I need your help. This is your mess and I’m out here trying to fix it. I’m in Quaston, ostensibly, and originally, to use their archive, to try and see if I could work out what the hell is going on. I don’t know how you fucked up, but I know enough to know you did. I’m scared Hollynys. Something’s not quite right here, I haven’t told my hosts exactly what I’m looking for. They seem to know too much. Making veiled references. I’ve got a bad feeling about this Hollynys. I need you to come and back me up. I’ve got friends in Kirkrindell, they should be staying with Ammanar, if neither of you have heard from me after this letter. Please, come and find me. 
+  Allana.”_
+
+
+
