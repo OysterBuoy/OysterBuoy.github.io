@@ -3,11 +3,12 @@ layout: post
 tags: [DnD, 5e, TbI, DMing, Planning]
 categories: [Trial by Incarceration]
 title: The Fall of Quaston
+excerpt: I've been having a lot of fun writing up the background and feel of the Gnomish city of Quaston, but with my players rapidly advancing on the city itself, it's about time I worked out not only what the city _was_ like, but rather, the condition we find it in today.
 ---
 
 Well I've been having a lot of fun writing up the background and feel of the Gnomish city of Quaston, but with my players rapidly advancing on the city itself, it's about time I worked out not only what the city _was_ like, but rather, the condition we find it in today. So, without further ado: The fall of Quaston.
 
----
+***
 
 **Important:** If you're one of my players reading these posts (sneaky devil, you) then cease and desist with greatest immediacy. You'll spoil the _entire rest of the campaign if you read this, so STAHP._
 
