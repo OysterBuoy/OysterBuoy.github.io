@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tags
+title: Archive
 description: Stochastic stuff blog's tags. List of articles and posts by tags.
 ---
 
