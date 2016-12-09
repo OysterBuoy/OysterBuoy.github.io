@@ -4,12 +4,7 @@ title: Hollynys Stat Block
 tags: [planning, Dungeons and Dragons, 5E, NPC, Monster]
 categories: [Trial by Incarceration, Fifth Edition]
 ---
-
-<div align="right" position="absolute">
-<img position="absolute" float="right" src="https://oysterbuoy.github.io/assets/Hollynys-Fletcher.JPG" alt="Hollynys stat block">
-</div>
-
-Hollynys Fletcher is a wizard of quite some repute. Born into a wealthy Kirkrindell family and naturally gifted in the arcane, Hollynys was a grown woman before she found a challenge she could not easily master. 
+<img position="absolute" align="right" src="https://oysterbuoy.github.io/assets/Hollynys-Fletcher.JPG" alt="Hollynys stat block"> Hollynys Fletcher is a wizard of quite some repute. Born into a wealthy Kirkrindell family and naturally gifted in the arcane, Hollynys was a grown woman before she found a challenge she could not easily master. 
 
 Arrogant and aggressive in her pursuit of magical study, Hollynys became a central figure in the Blackwyrm Cabal, the secretive group of wizards in the heart of Kirkrindell. In the face of Imperial invasion, Hollynys was one of those arguing most strongly for the cabal to make a stand against Laseen's Empire. 
 
