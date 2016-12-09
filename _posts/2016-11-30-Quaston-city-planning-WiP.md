@@ -129,9 +129,33 @@ The Gnomish founding clans are the most individually powerful groups in the city
 
 ## Notable residents
 
+
 ### Clan Leaders
 
+Young, naive, influential, favoured, wants reform.
+**Lilli Beren** - 
+
+middle aged, savvy, declining influence, driven out family member, wants to move the family out of city.
+**Donella Turen** - 
+
+middle aged, cautious, average influence, randomed family member, wants to forge alliances.
+**Alston Folkor** - 
+
+older man, assertive, very influential, new source of gems, wants to fortify position on council. 
+**Kellen Garrick** - 
+
+
 ### Guild Leaders
+
+
+- Oneshoe's Clan - bribery and extortionists
+  - 
+- Pock's Clan - drugs and smuggling
+  - 
+- Cloak's Clan - assassination
+  - 
+- Filche's Clan - thievery 
+  - 
 
 ### The Thieves
 
