@@ -4,6 +4,7 @@ title: "OysterBuoy.github.io is live! (Kinda)"
 date: 2016-11-30
 tags: [web dev, blogging, planning]
 category: blogging
+excerpt: Hey! For my first post I'm just setting out some things I want to achieve and writing a progress tracker to be updated periodically.
 ---
 
 Hello _Reader!_ Or more likely, hello _future me!_ Here's a note for this first post reminding you of the things you want to implement.
