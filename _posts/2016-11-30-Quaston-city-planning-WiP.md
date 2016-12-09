@@ -58,18 +58,25 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 - The ruling body of clan representatives.
 - The clans in their capacity as entities.
   - Clan Beren
-    - Young leader, naive - 
+    - Young leader, naive - Lilli Beren
     - Very influential family.
     - Favoured by the council.
     - Wants reform to include the new clans.
   - Clan Turen
-    - Middle aged leader, savvy - 
+    - Middle aged leader, savvy - Donella Turen
     - Declining influence.
     - Recently driven out a family member for being a monster (jekyll and hyde)
     - Wants to leave the city for somewhere else.
   - Clan Folkor
-    - 
+    - Middle aged leader, cautious - Alston Folkor
+    - Average influence
+    - Family member ransomed by Enclave of Stone.
+    - Wants to forge alliances
   - Clan Garrick
+    - Old, assertive leader - Kellen Garrick
+    - Very influential.
+    - Has recently discovered a new source of many valuable gems
+    - Wants to use wealth to fortify position on council.
 - The new powerful clans not permitted in the ruling body.
   - Clan Glossen
   - Clan Redin
@@ -121,6 +128,12 @@ The Gnomish founding clans are the most individually powerful groups in the city
 
 ## Notable residents
 
+### Clan Leaders
 
+### Guild Leaders
+
+### The Thieves
+
+### The Enclave of Stone
 
 ## International relations
