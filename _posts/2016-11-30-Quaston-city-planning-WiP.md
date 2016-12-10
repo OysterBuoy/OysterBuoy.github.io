@@ -59,22 +59,18 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 - The ruling body of clan representatives.
 - The clans in their capacity as entities.
   - Clan Beren
-    - Young leader, naive - Lilli Beren
     - Very influential family.
     - Favoured by the council.
     - Wants reform to include the new clans.
   - Clan Turen
-    - Middle aged leader, savvy - Donella Turen
     - Declining influence.
     - Recently driven out a family member for being a monster (jekyll and hyde)
     - Wants to leave the city for somewhere else.
   - Clan Folkor
-    - Middle aged leader, cautious - Alston Folkor
     - Average influence
     - Family member ransomed by Enclave of Stone.
     - Wants to forge alliances
   - Clan Garrick
-    - Old, assertive leader - Kellen Garrick
     - Very influential.
     - Has recently discovered a new source of many valuable gems
     - Wants to use wealth to fortify position on council.
@@ -133,54 +129,56 @@ The Gnomish founding clans are the most individually powerful groups in the city
 ### Clan Leaders
 
 Young, naive, influential, favoured, wants reform.
-**Lilli Beren** - 
+**Lilli Beren** - Nervous eye twitch, ruddy red cheeks, stumbles and stammers, taps fingers constantly, argumentative.
 
 middle aged, savvy, declining influence, driven out family member, wants to move the family out of city.
-**Donella Turen** - 
+**Donella Turen** - threadbare out of fashion clothes, lithe and graceful, once known for her beauty, but now pale and sallow, sings beautifully, sings and hums when thinking or bored.
 
-middle aged, cautious, average influence, randomed family member, wants to forge alliances.
-**Alston Folkor** - 
+middle aged, cautious, average influence, ransomed family member, wants to forge alliances.
+**Alston Folkor** - lots of pseudo-religious ancestor worshipping piercings - rim of nose, eyebrows, warding charms hang from them, persuasive, but clumsy, speaks several languages, prone to predictions of doom.
 
 older man, assertive, very influential, new source of gems, wants to fortify position on council. 
-**Kellen Garrick** - 
+**Kellen Garrick** - Long braided beard, very strong, but is oblivious to others, sometimes forgetful, good problemsolver, squints all the time.
 
 
 ### Temple Leaders
 
 - Sehanine - Godess of Illusion, Love and the Moon.
   - Temple in the Glittering Column and Marble Row.
-    - 
+    - Sister Ellywick, gnome, glittering column, distinctive jewelry, moon motifs, studious and learned, absentminded, fidgets.
+    - Sister Breena, gnome, marble row, distinctive jewelry, tattoos, moon and smoke motifs, inquisitive, dull, twirls hair.
   - Shrine in Pebbleside.
-    -
+    - Brother Erdan, elf, pebbleside, distinctive jewelry, missing fingers, persuasive, dim witted, scratches hand scars.
 - Moradin - God of Family, Community and Creation.
-  - Temples in Marble Row Dwarven communities.
-    - 
+  - Temple in Marble Row Dwarven communities.
+    - Brother Adrik, dwarf, marble row, pronounced scar (burns), built, blotchy skin, colourful oaths and exclamations.
 - Corellon - God of Beauty, Magic, Art, and the Fey. 
   - Temples in Pebbleside elf communities and Marble Row.
-    - 
-    - 
+    - Brother Laucian, elf, pebbleside, bald, clumsy, strong, a drunk.
+    - Sister Enna, elf, marble row, tattoos, studious, scrawny, flowery speech and long words.
 
 ### Guild Leaders
 
 - Cartographers Guild
-  - 
+  - Bardryn Ironfist, female dwarf, large birthmark across her left cheekbone and eye, brawny, obsessed with details, whispers.
 - Artisans Guild
-  - 
+  - Lorilla Timbers, female gnome, very formal clothes, forceful, born leader, feeble, stares into the distance, great dancer, was formerly head of a dancing troupe in the city.
 
 ### The Thieves
 
 - Oneshoe's Clan - bribery and extortionists
-  - 
+  - Oneshoe, male gnome, lots of intimidating piercings, lips, cheeks, bridge, forceful, pale, predictions of doom, for others. 
 - Pock's Clan - drugs and smuggling
-  - 
+  - Pock, female gnome, lots of braided hair, lithe, uncaring of others, hums quietly 
 - Cloak's Clan - assassination
-  - 
+  - Cloak, male gnome, one blue one brown eye, bites fingernails, seems unbalanced, brawny.
 - Filche's Clan - thievery 
-  - 
+  - Filche, female gnome, outlandish clothes, many bright colours, but seems to be mostly rags, forgetful, charming, always whispers. 
 
 ### The Enclave of Stone
 
-- Bossman Wizard
-- 
+- Glim of Stone, High Magister, studious, ruthless, utterly rigid posture, speaks in as few words as possible, perfect memory.
 
 ## International relations
+
+Quaston is a well-known neutral party in all local conflicts, representing both a great source of knowledge, wealth and refuge for those in need. 
