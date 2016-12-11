@@ -71,6 +71,7 @@ The population of Quaston are almost entirely gnomes, although there are sizable
     - Very influential.
     - Has recently discovered a new source of many valuable gems
     - Wants to use wealth to fortify position on council.
+    - Has links to Filche's clan of Thieves.
 - The new powerful clans not permitted in the ruling body.
   - Clan Glossen
   - Clan Redin
