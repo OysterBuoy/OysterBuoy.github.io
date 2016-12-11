@@ -6,11 +6,11 @@ title: The Fall of Quaston
 excerpt: I've been having a lot of fun writing up the background and feel of the Gnomish city of Quaston, but with my players rapidly advancing on the city itself, it's about time I worked out not only what the city was like, but rather, the condition we find it in today.
 ---
 
+**Important: If you're one of my players reading these posts (sneaky devil, you) then cease and desist with greatest immediacy. You'll spoil the _entire rest of the campaign if you read this, so STAHP._**
+
 Well I've been having a lot of fun writing up the background and feel of the Gnomish city of Quaston, but with my players rapidly advancing on the city itself, it's about time I worked out not only what the city _was_ like, but rather, the condition we find it in today. So, without further ado: The fall of Quaston.
 
 ***
-
-**Important:** If you're one of my players reading these posts (sneaky devil, you) then cease and desist with greatest immediacy. You'll spoil the _entire rest of the campaign if you read this, so STAHP._
 
 A new force has emerged to take control of the city. From the Enclave of Stone a new worship has arisen, the worship of the reincarnated Lord of Stone; Tharizdun. The necromancers of the Enclave of Stone have forced many of the people in the city to convert to worshipping the Eternal Lord of Stone. 
 
@@ -46,8 +46,6 @@ Many people are afraid, but some are cautiously optimistic. Much of the crime ha
 
 **Clan Turen** were a clan of declining influence who drove out a family member for being a monster. That monster returned and now serves the **Enclave of Stone**. The Turen family now serve the Enclave, driven half mad, barely keeping control of their monster.
 
-  **Donella Turen** now holds a minor position in the Enclave of Stone, but the visions that have been visited upon her in rituals are slowly sending her mad. She can often be heard singing in the Column, and has begun singing the praises of the Eternal Lord of Stone. They were the family hosting Allana in her time in Quaston. When they abducted the Garrick clan, they took Allana as well.
-
 **Clan Folkor** have engaged with the Enclave of Stone, but reluctantly. Their patriarch, Alston Folkor, is trying to preserve the clan by adapting to the new enclave. He is vocally supportive of the Enclave representative on the council. Alston's firstborn son **Alvyn Folkor** is being held by the Enclave of Stone in order to ensure loyalty. 
 
 **Clan Garrick** have been ritually sacrificed. Kellen Garrick resisted the changes to the council. Their ancestral home shows signs of struggle. All of the family was taken to the Enclave under cover of darkness. 
@@ -74,7 +72,7 @@ Once a paragon of wizardry and learning, the Enclave has become obsessed by Necr
 
 **Cloak's Clan**
 
-**Filche's Clan**
+**Filche's Clan** 
 
 ### The Temples
 
@@ -87,6 +85,46 @@ Once a paragon of wizardry and learning, the Enclave has become obsessed by Necr
 
 ## NPCs
 
-**Lilli Beren** hides in the sewers beneath the glittering column, half mad with fear. Nervous eye twitch, ruddy red cheeks, stumbles and stammers, taps fingers constantly, argumentative.
+**The Noble Clans**
 
-**
+_Lilli Beren_ hides in the sewers beneath the glittering column, half mad with fear. Nervous eye twitch, ruddy red cheeks, stumbles and stammers, taps fingers constantly, argumentative.
+
+_Donella Turen_ is half mad, and a true believer in the cult of eternal earth. She wears threabare out of fashion clothes, and is lithe and graceful, once known for her beautiful dancing, but is now pale and sallow. She sings beautifully, and ethereally. Middle aged. She was the hostess of Allana in her time in Quaston. When they abducted the Garrick clan, they took Allana as well.
+
+_Alston Folkor_ 
+
+_Kellen Garrick_
+
+**The Enclave of Stone**
+
+_Glim of the Stone_
+
+**The Guilds**
+
+_Bardryn Ironfist_
+
+_Lorilla Timbers_
+
+**The Thieves**
+
+_Oneshoe_
+
+_Pock_
+
+_Cloak_
+
+_Filche_
+
+**The Temples**
+
+_Sister Ellywick_
+
+_Sister Breena_
+
+_Brother Erdan_
+
+_Brother Adrik_
+
+_Brother Laucian_
+
+_Sister Enna_
