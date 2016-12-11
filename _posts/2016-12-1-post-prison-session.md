@@ -3,6 +3,7 @@ layout: post
 title: Crystal Mine Session
 tags: [planning, Dungeons and Dragons, 5E]
 categories: [TbI, fifth-edition]
+excerpt: The session opens on a darkened hillside, the group sitting around a campfire in a circle of small tents. The hillside is covered in stumps of trees long cut down. A frantic Ammanar is questioning the group, and the unconscious form of Hollynys can be seen lying inside a tent.
 ---
 
 ## DM priorities:

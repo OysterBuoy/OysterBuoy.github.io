@@ -3,16 +3,17 @@ layout: default
 title: Dungeons and Dragons and Shenanigans
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Ed!</h1>
-	<p>I'm a serial DM and nerd. I play a lot of Dungeons and Dragons, and when I'm not playing it, I'm thinking about it. <a href="/about">Read more about my life...</a></p>
+	<h1>Dungeons and Dragons and Shenanigans!</h1>
+	<p>Hey, I'm Ed, serial DM and nerd. I play a lot of Dungeons and Dragons, and when I'm not playing it, I'm thinking about it. <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
 <ul class="posts">
-
+<hr/>	
 	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br/><ul class="tags">
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br/><div class="excerpt">{{ post.excerpt }}</div><ul class="tags">
 		{% for tag in post.tags %}
 			<li style="font-size:50%; display:inline"><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
 		{% endfor %}
+<hr/>			
 		</ul></li>
 	{% endfor %}
 </ul>
