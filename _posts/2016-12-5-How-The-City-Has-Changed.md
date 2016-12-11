@@ -12,7 +12,7 @@ Well I've been having a lot of fun writing up the background and feel of the Gno
 
 ***
 
-A new force has emerged to take control of the city. From the Enclave of Stone a new worship has arisen, the worship of the reincarnated Lord of Stone; Tharizdun. The necromancers of the Enclave of Stone have forced many of the people in the city to convert to worshipping the Eternal Lord of Stone. 
+A new force has emerged to take control of the city. From the Enclave of Stone a new worship has arisen, the worship of the reincarnated Lord of Stone; Thazrin. The necromancers of the Enclave of Stone have forced many of the people in the city to convert to worshipping the Lord of Eternal Earth. 
 
 There is a curfew in effect, none are permitted to walk the streets after 6pm. All of the standard city guard have been dismissed. and a new for patrols the city streets after curfew.
 
@@ -78,10 +78,19 @@ Once a paragon of wizardry and learning, the Enclave has become obsessed by Necr
 
 **Sehanine, Godess of Illusion, Love, and the Moon**
 
+- Glittering Column Temple
+- Marble Row Temple
+- Pebbleside Shrine
+
 **Moradin, God of Family, Creation, and Community**
+
+- Marble Row Temple
 
 **Corellon, God of Beauty, Art, Magic, and the Fey**
 
+- Marble Row Temple
+  - This temple has been desecrated. The priest Sister Enna has been killed and lies in the aisle, the blood of worshippers stains the pews, most are overturned. The lamps inside the temple used to be magically lit, but are all extinguished.
+- Pebbleside Temple
 
 ## NPCs
 
