@@ -60,15 +60,12 @@ The population of Quaston are almost entirely gnomes, although there are sizable
 - The clans in their capacity as entities.
   - Clan Beren
     - Very influential family.
-    - Favoured by the council.
     - Wants reform to include the new clans.
   - Clan Turen
     - Declining influence.
-    - Recently driven out a family member for being a monster (jekyll and hyde)
     - Wants to leave the city for somewhere else.
   - Clan Folkor
     - Average influence
-    - Family member ransomed by Enclave of Stone.
     - Wants to forge alliances
   - Clan Garrick
     - Very influential.
@@ -121,25 +118,21 @@ Exports:
 
 ## Governance
 
-The Gnomish founding clans are the most individually powerful groups in the city, and each year, one representative from each clan is chosen to represent the interests of that clan.
+The Gnomish founding clans are the most individually powerful groups in the city, and each year, one representative from each clan is chosen to represent the interests of that clan. Currently, **Clan Garrick** is in control of the council, and favours **Clan Beren**.
 
 ## Notable residents
 
 
 ### Clan Leaders
 
-Young, naive, influential, favoured, wants reform.
-**Lilli Beren** - Nervous eye twitch, ruddy red cheeks, stumbles and stammers, taps fingers constantly, argumentative.
+**Lilli Beren** - Nervous eye twitch, ruddy red cheeks, stumbles and stammers, taps fingers constantly, argumentative. Young, naive, influential, favoured, wants reform.
 
-middle aged, savvy, declining influence, driven out family member, wants to move the family out of city.
-**Donella Turen** - threadbare out of fashion clothes, lithe and graceful, once known for her beauty, but now pale and sallow, sings beautifully, sings and hums when thinking or bored.
+**Donella Turen** - threadbare out of fashion clothes, lithe and graceful, once known for her beauty, but now pale and sallow, sings beautifully, sings and hums when thinking or bored. Middle aged, savvy, declining influence.
 
-middle aged, cautious, average influence, ransomed family member, wants to forge alliances.
-**Alston Folkor** - lots of pseudo-religious ancestor worshipping piercings - rim of nose, eyebrows, warding charms hang from them, persuasive, but clumsy, speaks several languages, prone to predictions of doom.
+**Alston Folkor** - lots of pseudo-religious ancestor worshipping piercings - rim of nose, eyebrows, warding charms hang from them, persuasive, but clumsy, speaks several languages, prone to predictions of doom. Middle aged, cautious, average influence, 
 
-older man, assertive, very influential, new source of gems, wants to fortify position on council. 
-**Kellen Garrick** - Long braided beard, very strong, but is oblivious to others, sometimes forgetful, good problemsolver, squints all the time.
 
+**Kellen Garrick** - Long braided beard, very strong, but is oblivious to others, sometimes forgetful, good problemsolver, squints all the time. Older man, assertive, very influential. 
 
 ### Temple Leaders
 
