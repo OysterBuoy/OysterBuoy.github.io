@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Character Introduction - Elum Rhei
+title: Character Introduction Elum Rhei
 date: 2017-01-12
 tags: [Pathfinder, Prose]
 categories: [Pathfinder, prose]
-excerpt: This is a character introduction for a Pathfinder campaign a friend is running, Elum Rhei is an Ifrit Dune Drifter (Cavalier Archetype) and I thought I'd write a little prose to get into character.
+excerpt: This is a character introduction for a Pathfinder campaign a friend is running, Elum Rhei is an Ifrit Dune Drifter and I thought I'd write a little prose to get into character.
 ---
 
 He knelt before the fire, weapons laid aside, the familiar refrain intoned under his breath.
