@@ -21,7 +21,7 @@ And the dying flame grows dim, its power exerted.
 
 But all fires can be fed. New heat and new will taking new action, recalling the brighter ages of the flame."_
 
-The low fire crackled. A mirror to his umber eyes. _Another day passed, and so the fire ebbs._ Reaching back, he retrieved one of the stacked logs and tossed it into the flames, watching the hungry flames lick and catch the edges of the dry branch. _Would that I could be as easily renewed._
+The low fire crackled, a mirror to his umber eyes. _Another day passed, and so the fire ebbs._ Reaching back, he retrieved one of the stacked logs and tossed it into the flames, watching the hungry flames lick and catch the edges of the dry branch. _Would that I could be as easily renewed._
 
 The day had been long. Three men had been taking gold from the farmers and peasants of Shepherd's Hold, and now three more corpses lay mouldering under a darkening sky. No thanks though, that wasn't for him, not anymore. _I'm getting too old for this._
 
