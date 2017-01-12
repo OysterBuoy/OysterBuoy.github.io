@@ -9,17 +9,17 @@ excerpt: This is a character introduction for a Pathfinder campaign a friend is 
 
 He knelt before the fire, weapons laid aside, the familiar refrain intoned under his breath.
 
-_"My life was born from flame, and to flame I shall return.
+_"My life was born from flame, and to flame I shall return."_
 
-My body is the fuel, and is consumed as the fire grows, my actions are the heat, affecting all around me, my will is the air, giving all else power.
+_"My body is the fuel, and is consumed as the fire grows, my actions are the heat, affecting all around me, my will is the air, giving all else power."_
 
-The young flame burns quickly, breathes deep and burns a path across the world.
+_"The young flame burns quickly, breathes deep and burns a path across the world."_
 
-The grown flame consumes in balance, drawing air sufficient to its need.
+_"The grown flame consumes in balance, drawing air sufficient to its need."_
 
-And the dying flame grows dim, its power exerted.
+_"And the dying flame grows dim, its power exerted."_
 
-But all fires can be fed. New heat and new will taking new action, recalling the brighter ages of the flame."_
+_"But all fires can be fed. New heat and new will taking new action, recalling the brighter ages of the flame."_
 
 The low fire crackled, a mirror to his umber eyes. _Another day passed, and so the fire ebbs._ Reaching back, he retrieved one of the stacked logs and tossed it into the flames, watching the hungry flames lick and catch the edges of the dry branch. _Would that I could be as easily renewed._
 
