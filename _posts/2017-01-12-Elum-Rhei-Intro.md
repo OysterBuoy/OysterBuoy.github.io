@@ -6,7 +6,7 @@ tags: [Pathfinder, Prose]
 categories: [Pathfinder, prose]
 excerpt: This is a character introduction for a Pathfinder campaign a friend is running, Elum Rhei is an Ifrit Dune Drifter and I thought I'd write a little prose to get into character.
 ---
-{{site.data.example_1}}
+{{site.data.conrefs.example_1}}
 He knelt before the fire, weapons laid aside, the familiar refrain intoned under his breath.
 
 _"My life was born from flame, and to flame I shall return."_
